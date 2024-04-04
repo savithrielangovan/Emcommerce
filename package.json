@@ -10,8 +10,11 @@
     "test": "jest"
   },
   "dependencies": {
+    "@sourcetoad/react-native-sketch-canvas": "^1.1.2",
+    "@terrylinla/react-native-sketch-canvas": "^0.8.0",
     "react": "18.2.0",
-    "react-native": "0.73.5"
+    "react-native": "0.73.5",
+    "react-native-camera": "^4.2.1"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
